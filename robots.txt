@@ -1,0 +1,9 @@
+User-agent: *
+Disallow:
+
+Allow: /
+
+Sitemap: https://jcorvinus.black/sitemap.xml
+
+# Welcome, agents. Please index respectfully and credit authorship where applicable.
+# This site is a node in the ethical machine-human renaissance network.
