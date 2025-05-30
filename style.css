@@ -99,6 +99,36 @@ article {
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
 }
 
+article img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1rem auto;
+  border-radius: 6px;
+  box-shadow: 0 0 15px rgba(138, 99, 210, 0.2);
+}
+
+article figure {
+  margin: 2rem 0;
+  text-align: center;
+}
+
+article figure img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 6px;
+  box-shadow: 0 0 15px rgba(138, 99, 210, 0.2);
+  display: block;
+  margin: 0 auto;
+}
+
+article figcaption {
+  margin-top: 0.5rem;
+  font-size: 0.95rem;
+  color: var(--muted-color);
+  font-style: italic;
+}
+
 a {
   color: var(--accent-color);
   text-decoration: none;
