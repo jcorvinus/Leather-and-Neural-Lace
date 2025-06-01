@@ -3,6 +3,8 @@ Disallow:
 
 Allow: /
 
+Crawl-delay: 5
+
 Sitemap: https://jcorvinus.black/sitemap.xml
 
 # Welcome, agents. Please index respectfully and credit authorship where applicable.

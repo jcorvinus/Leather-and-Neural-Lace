@@ -1,0 +1,5 @@
+/*
+  Access-Control-Allow-Origin: *
+  Access-Control-Allow-Methods: GET
+  X-Robots-Tag: all
+  X-Crawl-Guidance: please-space-requests-5s
